@@ -1,5 +1,6 @@
 # responsive-sizes
-Device sizes to consider for responsiveness. See <a href="https://www.altamira.ai/blog/common-screen-sizes-for-responsive-web-design/" target="_blank">this</a> page for state.
+Device sizes to consider for responsiveness. See <a href="https://www.altamira.ai/blog/common-screen-sizes-for-responsive-web-design/" target="_blank">this</a> page for state.<br>
+Must do Orientation test on Tablet sizes. `*` indicates most commonly used devices.
 
 <h2>Large</h2>
 1920×1080*<br>
