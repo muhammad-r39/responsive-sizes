@@ -18,6 +18,7 @@ Must do Orientation test on Tablet sizes. `*` indicates most commonly used devic
 962×601<br>
 
 <h2>Mobile</h2>
+576×1080*<br>
 414×896*<br>
 414×736<br>
 375×812<br>
