@@ -25,4 +25,5 @@ Must do Orientation test on Tablet sizes. `*` indicates most commonly used devic
 375x667<br>
 360x780<br>
 360x640<br>
-320x360
+320x568<br>
+320x480
