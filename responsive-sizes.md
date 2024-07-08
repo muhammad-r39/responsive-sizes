@@ -1,29 +1,98 @@
 # responsive-sizes
-Device sizes to consider for responsiveness. See <a href="https://www.altamira.ai/blog/common-screen-sizes-for-responsive-web-design/" target="_blank">this</a> page for state.<br>
-Must do Orientation test on Tablet sizes. `*` indicates most commonly used devices.
 
-<h2>Large</h2>
-1920x1080*<br>
-1600x900<br>
-1536x864<br>
-1440x900<br>
-1366x768<br>
-1280x1024<br>
-1280x720<br>
+<table>
+  <tr>
+    <th>Large</td>
+    <th>Tablet</td>
+    <th>Mobile</td>
+  </tr>
+  <tr>
+    <td>1920x1080*</td>
+    <td>1280x800</td>
+    <td>576x1080</td>
+  </tr>
+  <tr>
+    <td>1600x900</td>
+    <td>1080x810</td>
+    <td>414x896*</td>
+  </tr>
+  <tr>
+    <td>1536x864</td>
+    <td>1024x768*</td>
+    <td>414x736</td>
+  </tr>
+  <tr>
+    <td>1440x900</td>
+    <td>962x601</td>
+    <td>375x812</td>
+  </tr>
+  <tr>
+    <td>1366x768</td>
+    <td></td>
+    <td>375x667</td>
+  </tr>
+  <tr>
+    <td>1280x1024</td>
+    <td></td>
+    <td>360x780</td>
+  </tr>
+  <tr>
+    <td>1280x720</td>
+    <td></td>
+    <td>360x640</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>320x568</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>320x480</td>
+  </tr>
+</table>
 
-<h2>Tablet</h2>
-1280x800<br>
-1080x810<br>
-1024x768*<br>
-962x601<br>
-
-<h2>Mobile</h2>
-576x1080<br>
-414x896*<br>
-414x736<br>
-375x812<br>
-375x667<br>
-360x780<br>
-360x640<br>
-320x568<br>
-320x480
+# font sizes and their name
+<table>
+  <tr>
+    <th>Size</th>
+    <th>Name</th>
+  </tr>
+  <tr>
+    <td>100</th>
+    <td>Thin</th>
+  </tr>
+  <tr>
+    <td>200</td>
+    <td>Extra Light (Ultra Light)</td>
+  </tr>
+  <tr>
+    <td>300</td>
+    <td>Light</td>
+  </tr>
+  <tr>
+    <td>400</td>
+    <td>Normal</td>
+  </tr>
+  <tr>
+    <td>500</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>600</td>
+    <td>Semi Bold (Demi Bold)</td>
+  </tr>
+  <tr>
+    <td>700</td>
+    <td>Bold</td>
+  </tr>
+  <tr>
+    <td>800</td>
+    <td>Extra Bold (Ultra Bold)</td>
+  </tr>
+  <tr>
+    <td>900</td>
+    <td>Black (Heavy)</td>
+  </tr>
+</table>
